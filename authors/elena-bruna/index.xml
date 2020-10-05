@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elena Bruna on Dr. Ashik Ikbal Sheikh</title>
+    <link>https://ashikikbal.github.io/aboutme/authors/elena-bruna/</link>
+    <description>Recent content in Elena Bruna on Dr. Ashik Ikbal Sheikh</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ashikikbal.github.io/aboutme/authors/elena-bruna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Optimization of secondary vertex based b-jet tagging algorithm with ALICE at the LHC</title>
+      <link>https://ashikikbal.github.io/aboutme/publication/bjetopt/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/publication/bjetopt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

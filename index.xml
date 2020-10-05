@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Ashik Ikbal Sheikh</title>
+    <link>https://ashikikbal.github.io/aboutme/</link>
+    <description>Recent content on Dr. Ashik Ikbal Sheikh</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ashikikbal.github.io/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ashikikbal.github.io/aboutme/publication/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My Recent Talks</title>
+      <link>https://ashikikbal.github.io/aboutme/talk/</link>
+      <pubDate>Tue, 15 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Courses</title>
+      <link>https://ashikikbal.github.io/aboutme/courses/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://ashikikbal.github.io/aboutme/slides/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://ashikikbal.github.io/aboutme/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ashikikbal.github.io/aboutme/project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://ashikikbal.github.io/aboutme/post/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

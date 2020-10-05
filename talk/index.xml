@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Recent Talks on Dr. Ashik Ikbal Sheikh</title>
+    <link>https://ashikikbal.github.io/aboutme/talk/</link>
+    <description>Recent content in My Recent Talks on Dr. Ashik Ikbal Sheikh</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Oct 2019 10:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ashikikbal.github.io/aboutme/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Study of Inclusive b-Jet Production in ALICE Experiment at LHC</title>
+      <link>https://ashikikbal.github.io/aboutme/talk/thesisdef/</link>
+      <pubDate>Tue, 15 Oct 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/talk/thesisdef/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measurements of heavy-flavor jets with ALICE at the LHC</title>
+      <link>https://ashikikbal.github.io/aboutme/talk/qcd-19/</link>
+      <pubDate>Fri, 05 Jul 2019 13:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/talk/qcd-19/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heavy quark jet propagation and heavy flavor suppression in a fluctuating quark-gluon plasma at the LHC energies</title>
+      <link>https://ashikikbal.github.io/aboutme/talk/bi/</link>
+      <pubDate>Tue, 12 Feb 2019 17:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/talk/bi/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heavy quarks and chromo-electromagnetic field fluctuations - The Drag, Diffusion coefficient and Nuclear modification factor</title>
+      <link>https://ashikikbal.github.io/aboutme/talk/beach/</link>
+      <pubDate>Fri, 22 Jun 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/talk/beach/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taking a walk with heavy quarks in a field fluctuating Quark-Gluon Plasma at the LHC energies</title>
+      <link>https://ashikikbal.github.io/aboutme/talk/wigner/</link>
+      <pubDate>Mon, 04 Jun 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://ashikikbal.github.io/aboutme/talk/wigner/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
